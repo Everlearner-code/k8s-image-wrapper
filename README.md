@@ -1,0 +1,3 @@
+# README
+
+这是一个通过阿里云镜像服务构建Kubernetes相关Docker镜像的仓库，如果你也想构建通过该仓库构建自己的Kubernetes镜像，请自己fork进行构建。
